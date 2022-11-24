@@ -1,0 +1,6 @@
+bin/
+for git/bin/
+obj/
+for git/obj/
+.vs/
+.git/
